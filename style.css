@@ -1,0 +1,27 @@
+div {
+    width: 400px;
+    height: 400px;
+    margin: 50px auto;
+    border: 15px solid rgb(16, 32, 78); 
+    outline: 15px double rgb(86, 135, 228); /* Contorno lado de fora */
+    box-shadow: inset 30px 25px 20px 5px rgb(86, 135, 228); /* Sombreamento da caixa */
+    background-image: url("background-213649_1280.jpg");
+    background-size: cover;
+    padding: 30px; /* Preenchimento interno */
+    text-align: center;
+}
+
+p {
+    font-style: oblique;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding-top: 120px;
+}
+
+footer {
+    background-color: rgb(16, 32, 78);
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+}
